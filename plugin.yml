@@ -1,0 +1,11 @@
+name: DarkClear
+main: RomaDurov\DarkClear
+version: 1.0.0
+api: 3.0.0
+author: RomaDurov and DarkFlame
+description: "A smart entity clearing plugin by ROMADUROV (https://github.com/romadurov) for the server (https://vk.com/darkflame)"
+
+commands:
+ darkclear:
+  description: Clear All Server
+  permission: clear.server 

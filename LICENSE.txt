@@ -1,0 +1,42 @@
+© 2026 ROMADUROV. All rights reserved.
+
+[ENG]
+
+This plugin was originally developed for my DarkFlame server by ROMADUROV, but I decided to make it publicly available.
+
+You may:
+
+Use this software for personal or commercial purposes
+
+Modify the code as you like
+
+You may NOT:
+
+Redistribute or publish the software under your name
+
+Remove or alter the original author's copyright notice
+
+
+
+
+
+
+[RU]
+
+© 2026 ROMADUROV. Все права защищены.
+
+Данный плагин изначально был разработан для моего сервера DarkFlame, автором являюсь я - ROMADUROV, но я решил выложить его в общий доступ.
+
+Вы можете:
+
+Использовать это программное обеспечение в личных или коммерческих целях
+
+Модифицировать код как вам угодно
+
+Вы не можете:
+
+Распространять или публиковать программное обеспечение под своим именем
+
+Удалять или изменять уведомление об авторских правах оригинального автора
+
+

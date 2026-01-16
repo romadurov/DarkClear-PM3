@@ -1,0 +1,58 @@
+# -----------------------------------------------------------
+# DarkClear Plugin Configuration
+# -----------------------------------------------------------
+
+# Enable/disable automatic cleaning
+# Вкл/Выкл авто-очистку
+enabled: true
+
+# Seconds between automatic cleaning cycles
+# Таймер в секундах между автоматической очисткой
+clear-interval: 600
+
+# Warnings for "time" seconds before cleaning
+# Сообщения игрокам за указанное количество секунд до очистки
+warn-seconds:
+  - 60  # Warn 60 seconds before cleaning | Предупреждать за 60 секунд
+  - 30  # Warn 30 seconds before cleaning | Предупреждать за 30 секунд
+  - 10  # Warn 10 seconds before cleaning | Предупреждать за 10 секунд
+
+# Remove mobs during cleaning
+# Удалять мобов во время очистки
+remove-mobs: true
+
+# Remove dropped items during cleaning
+# Удалять предметы, выпавшие на землю
+remove-items: true
+
+# Remove ALL ENTITIES (arrows, pearls, crystals, TNT, etc.)
+# Удалять ВСЕ ЭНТИТИ (стрелы, перлы, кристаллы, тнт и т.д и т.п)
+remove-all-entity: false
+
+# Remove bugged tiles (tiles without blocks)
+# Удалять сломанные тайлы (когда тайл существует, но блока нет)
+remove-bugged-tiles: true
+
+# Enable automatic TPS-based cleaning
+# Включить очистку по TPS (серверным лагам)
+tps-cleaner: true
+
+# Enable smart cleaning (skip mobs near players if enabled)
+# Включить умную очистку (не удалять сущности рядом с игроками)
+smart-clean: true
+
+# TPS value to trigger smart cleaning
+# Значение TPS для начала умной очистки
+tps-trigger: 16.5
+
+# TPS value to force immediate cleaning (emergency)
+# Значение TPS для экстренной очистки
+tps-force-clean: 13.0
+
+# Remove entities even if near players? (true = yes, false = skip)
+# Удалять сущности, даже если они рядом с игроками? (true = да, false = пропускать)
+smart-remove-even-near: false
+
+# Radius in blocks for smart cleaning around players
+# Радиус в блоках для умной очистки вокруг игроков
+smart-radius: 24
